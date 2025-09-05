@@ -40,10 +40,10 @@ Sou movido por aprendizado constante e resolução de problemas. Tenho facilidad
 <table align="center">
   <tr>
     <td>
-      <img alt="Otávio's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=franotaviox&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img alt="Otávio's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=franotxvio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
     <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franotaviox&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franotxvio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
     </td>
   </tr>
 </table>
@@ -57,4 +57,4 @@ Sou movido por aprendizado constante e resolução de problemas. Tenho facilidad
 
 ---
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=franotaviox&color=blue)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=franotxvio&color=blue)
