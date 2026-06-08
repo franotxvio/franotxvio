@@ -1,60 +1,55 @@
-# 👨‍💻 Otávio Francisco
+# Otávio Francisco
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Desenvolvimento Web**
+**Junior Backend Developer focused on AI automation, APIs and business systems.**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prática como freelancer, criando soluções com **Python**, **Flask**, **React.js** e **WordPress**, sempre com foco em **performance**, **usabilidade** e **valor real**.
+I build backend applications, automation tools and AI-powered systems using **Python**, **Node.js**, **PostgreSQL**, **Redis**, **Docker** and external APIs.
 
-Sou movido por aprendizado constante e resolução de problemas. Tenho facilidade para entender demandas, me adaptar a novos contextos e colaborar com times técnicos. Atualmente, busco uma **oportunidade de estágio** para aplicar meus conhecimentos em projetos reais e crescer profissionalmente na área de tecnologia.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Vue.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<br/>
-<br/>
+My main interests are backend development, AI automation, WhatsApp/API integrations, data workflows and practical business systems.
 
 ---
 
-### 🌟 Objetivo
+## Main Stack
 
-📌 Estou em busca de **estágio em desenvolvimento**, preferencialmente com foco em backend ou desenvolvimento web.
-
----
-
-### 📈 Estatísticas do GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img alt="Otávio's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=franotxvio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franotxvio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
+**Backend:** Python, FastAPI, Flask, Node.js, Express  
+**Database & Infra:** PostgreSQL, MySQL, Redis, Docker, Linux  
+**AI & Automation:** OpenAI, Gemini, LLM workflows, Webhooks, APIs  
+**Tools:** Git, GitHub Actions, CI/CD, Nginx, VPS  
 
 ---
 
-### 📬 Contato
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-francisco/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviofjuliano@gmail.com)
+### AI WhatsApp Operator / LeadCloser AI
+B2B WhatsApp automation system with AI lead qualification, scoring, webhooks, queues and scheduling integrations.
+
+**Stack:** Node.js, Express, PostgreSQL, Redis, BullMQ, Docker, OpenAI/Gemini, WhatsApp API.
+
+### Recruta Fácil
+ATS MVP with AI-powered candidate scoring, semantic analysis and structured evaluation.
+
+**Stack:** Python, Flask, REST APIs, AI scoring, SQL database.
+
+### Polymarket Research Bot
+Research and paper trading automation system with data collection, signal simulation, backtesting and risk controls.
+
+**Stack:** Python, Pytest, SQLite/PostgreSQL, automation, backtesting, reporting.
 
 ---
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=franotxvio&color=blue)
+## What I'm looking for
+
+I'm looking for opportunities as:
+
+- Junior Backend Developer
+- Python Developer Jr
+- Node.js Developer Jr
+- QA Automation Jr
+- Application Support / Technical Support with automation
+- AI Automation Developer Jr
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/otavio-francisco/)  
+[Email](mailto:otaviofjuliano@gmail.com)
